@@ -1,4 +1,4 @@
-package br.com.nextage.microservice.exemplo.config
+package br.com.estado.config
 
 import org.springframework.context.annotation.Configuration
 import org.springframework.scheduling.annotation.EnableScheduling

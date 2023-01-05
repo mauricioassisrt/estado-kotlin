@@ -1,4 +1,4 @@
-package br.com.nextage.microservice.exemplo.model
+package br.com.estado.model
 
 import java.io.Serializable
 import javax.persistence.*

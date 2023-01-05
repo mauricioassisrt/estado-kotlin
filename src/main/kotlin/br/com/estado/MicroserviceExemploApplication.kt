@@ -1,4 +1,4 @@
-package br.com.nextage.microservice.exemplo
+package br.com.estado
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

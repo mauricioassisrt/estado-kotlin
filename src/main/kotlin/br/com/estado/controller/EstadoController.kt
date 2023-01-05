@@ -1,7 +1,7 @@
-package br.com.nextage.microservice.exemplo.controller
+package br.com.estado.controller
 
-import br.com.nextage.microservice.exemplo.dto.EstadoDTO
-import br.com.nextage.microservice.exemplo.service.EstadoService
+import br.com.estado.dto.EstadoDTO
+import br.com.estado.service.EstadoService
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.data.domain.Page
 import org.springframework.data.domain.Pageable

@@ -1,6 +1,6 @@
-package br.com.nextage.microservice.exemplo.dto
+package br.com.estado.dto
 
-import br.com.nextage.microservice.exemplo.model.EstadoEntity
+import br.com.estado.model.EstadoEntity
 
 data class EstadoDTO(
     var id: Long? = null,

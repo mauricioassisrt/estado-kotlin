@@ -27,3 +27,6 @@
 2023-01-05 09:55:01.142  WARN 2596 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
 2023-01-05 09:55:02.303  INFO 2596 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8095 (http) with context path ''
 2023-01-05 09:55:02.370  INFO 2596 --- [main] c.n.m.e.MicroserviceExemploApplicationKt : Started MicroserviceExemploApplicationKt in 4.877 seconds (JVM running for 5.621)
+2023-01-05 09:59:24.397  INFO 2596 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-01-05 09:59:24.398  INFO 2596 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-01-05 09:59:24.399  INFO 2596 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.

@@ -1,4 +1,4 @@
-package br.com.nextage.microservice.exemplo.config
+package br.com.estado.config
 
 import com.fasterxml.jackson.databind.ObjectMapper
 import io.netty.channel.ChannelOption

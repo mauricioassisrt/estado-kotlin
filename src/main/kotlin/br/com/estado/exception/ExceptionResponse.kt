@@ -1,4 +1,4 @@
-package br.com.nextage.microservice.exemplo.exception
+package br.com.estado.exception
 
 data class ExceptionResponse(
         var status: String,

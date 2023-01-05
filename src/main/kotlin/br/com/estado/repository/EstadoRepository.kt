@@ -1,6 +1,6 @@
-package br.com.nextage.microservice.exemplo.repository
+package br.com.estado.repository
 
-import br.com.nextage.microservice.exemplo.model.EstadoEntity
+import br.com.estado.model.EstadoEntity
 import org.springframework.data.domain.Page
 import org.springframework.data.domain.Pageable
 import org.springframework.data.jpa.domain.Specification

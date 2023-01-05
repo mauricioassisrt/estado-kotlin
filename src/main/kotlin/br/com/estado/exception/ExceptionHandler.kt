@@ -1,4 +1,4 @@
-package br.com.nextage.microservice.exemplo.exception
+package br.com.estado.exception
 
 import org.springframework.beans.TypeMismatchException
 import org.springframework.http.HttpHeaders
